@@ -181,7 +181,7 @@ button {
 #list {
   width: 90%;
   margin: 10px auto;
-  font-size: smaller;
+  font-size: 14px;
   color: #999999;
 }
 ul {
@@ -227,7 +227,7 @@ ul {
     font-size: 30px;
   }
   #list {
-    line-height: 2;
+    line-height: 1.6;
   }
   ul {
     flex-wrap: wrap;
@@ -235,6 +235,6 @@ ul {
     justify-content: space-around;
   }
   li {
-    padding: 5px !important;
+    padding: 3px !important;
   }
 }
